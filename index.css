@@ -1,0 +1,16 @@
+div {
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 200px;
+    text-align: justify;
+}
+
+.div1 {
+    background-color: #003049;
+}
+
+.div2 {
+    background-color: #D62828;
+}
