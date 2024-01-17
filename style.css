@@ -1,0 +1,10 @@
+.pai {
+    height: 50vh;
+    width: 100vw;
+    background-color: black;
+}
+div {
+    width: 20vw;
+    height: 10vh;
+    background-color: red;
+}
